@@ -1,0 +1,10 @@
+span.b
+{
+    display: inline; /* the default for span */
+    width: 100px;
+    height: 100px;
+    padding: 5px;
+    border: 2px solid pink;  
+    background-color: goldenrod; 
+}
+
