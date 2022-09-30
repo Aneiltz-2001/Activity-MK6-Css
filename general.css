@@ -1,0 +1,11 @@
+div ~ p {
+    background-color:blue;
+  }
+
+  p ~ span {
+    color: red;
+  }
+
+body{
+    text-align: center;
+}
