@@ -1,0 +1,13 @@
+div > p {
+    color:white;
+    background: green;
+    padding:2px;
+}
+
+body {
+    text-align: center;
+}
+
+h2 {
+    color: green;
+}
